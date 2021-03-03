@@ -3,6 +3,22 @@
     {
       "width": 1080,
       "height": 1920,
+      "path": "./photos/Mockups/wx_20210207152245.jpg",
+      "compressed_path": "./photos/Mockups/wx_20210207152245.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Mockups/wx_20210207152245.placeholder.jpg"
+    },
+    {
+      "width": 1920,
+      "height": 1080,
+      "path": "./photos/Mockups/wx_20210207152304.jpg",
+      "compressed_path": "./photos/Mockups/wx_20210207152304.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Mockups/wx_20210207152304.placeholder.jpg"
+    },
+    {
+      "width": 1080,
+      "height": 1920,
       "path": "./photos/Mockups/wx_20210207152310.jpg",
       "compressed_path": "./photos/Mockups/wx_20210207152310.min.jpg",
       "compressed": false,
